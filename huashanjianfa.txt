@@ -1,3 +1,4 @@
 new build file and insert this content
 我是令狐冲，我比岳不群还厉害！ edit by 令狐冲for testing conflict
+我是令狐冲，我比岳不群还厉害！ edit by yuebuqun testing conflict!
 令狐冲第二次修改后推送到岳不群的远程仓库
